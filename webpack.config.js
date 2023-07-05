@@ -71,7 +71,7 @@ module.exports = {
             '@components': path.resolve(__dirname, './src/components'),
             '@assets': path.resolve(__dirname, './src/assets'),
             '@style': path.resolve(__dirname, './src/style'),
-            '@containers': path.resolve(__dirname, './src/containers'),
+            '@modules': path.resolve(__dirname, './src/modules'),
             '@helpers': path.resolve(__dirname, './src/helpers'),
             '@actions': path.resolve(__dirname, './src/actions'),
             '@config': path.resolve(__dirname, './src/config'),
